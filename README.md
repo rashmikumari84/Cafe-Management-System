@@ -35,11 +35,11 @@ project-folder/
 ```
 
 ### 🏠 Home & Order Section
-![Home](home.png)
+![Home](home2.png)
 
 
 ### 🧾 Bill Summary
-![Bill](home1.png)
+![Bill](home3.png)
 
 ## 💡 How It Works
 
